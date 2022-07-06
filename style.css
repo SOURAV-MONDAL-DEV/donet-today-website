@@ -18,11 +18,11 @@
     color:whitesmoke ;
     margin: 0px;
 }
-.header h3{
+.header h4{
     color:whitesmoke ;
     text-align: center;
 }
-.header .donet-now-btn{
+.donet-now-btn{
     font-size: 20px;
     color: white;
     background-color: rgb(14, 231, 68);
@@ -30,7 +30,7 @@
     border-radius: 10px;
 }
 .donet-here{
-    margin: 75px;
+    margin: 50px;
     display: flex ;
     flex-direction: column;
     align-items: center;
@@ -46,7 +46,7 @@
 .amount{
     list-style: none;
     display: flex ;
-    align-items: ;
+    align-items: center ;
     justify-content: center;
     color: #1e2525;
     
@@ -63,6 +63,28 @@
     border-radius: 5px;
 }
 .put{
-    width: 400px;
+    width: 500px;
     text-align: center;
+    margin-bottom: 20px ;
+}
+
+.work{
+    display: flex;
+    padding:30px 15px;
+    margin: 15px;
+    justify-content: space-around;
+}
+
+.common{
+    margin: 10px;
+    padding:45px 15px;
+}
+.food{
+    background-color: #f8ebb0;
+}
+.shelter{
+    background-color: #c0f3ba;
+}
+.education{
+    background-color: #fcbdf3;
 }
