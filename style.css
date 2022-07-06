@@ -1,0 +1,26 @@
+.header{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(image/donation13.jpg);
+    background-position: bottom;
+    background-size: cover;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header h1{
+    font-size: 40px;
+    color:whitesmoke ;
+}
+.header h3{
+    color:whitesmoke ;
+}
+.header .donet-now-btn{
+    font-size: 20px;
+    color: white;
+    background-color: rgb(14, 231, 68);
+    padding: 10px;
+    border-radius: 10px;
+}
