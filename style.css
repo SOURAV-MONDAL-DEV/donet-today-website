@@ -88,3 +88,25 @@
 .education{
     background-color: #fcbdf3;
 }
+.update{
+    padding: 20px;
+    margin: 20px;
+}
+.update h1{
+    padding: 20px;
+    margin: 20px;
+}
+.update p{
+    padding: 20px;
+    margin: 20px; 
+}
+.update input{
+    padding: 20px;
+    margin: 20px; 
+}
+.email{
+    width: 500px;
+    height: 10px;
+    text-align: center;
+   border: #f8ebb0 70px solid;
+}
