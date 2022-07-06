@@ -155,10 +155,13 @@ footer{
     padding: 40px;
 }
 footer h1{
-
-    color: #ff0000;
+    font-family: 'Lobster', cursive;
+    color: #993535;
 }
 footer p {
     color: aliceblue;
     margin-top: 55px;
+}
+.humble{
+    
 }
