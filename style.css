@@ -29,7 +29,7 @@
 .donet-now-btn{
     font-size: 20px;
     color: white;
-    background-color: rgb(14, 231, 68);
+    background-color: rgb(13, 151, 8);
     padding: 10px;
     border-radius: 10px;
 }
@@ -65,13 +65,15 @@
 }
 #dolar{
     color: green;
+    background-color: rgba(9, 136, 5, 0.12);
     border: 2px green solid ;
     border-radius: 5px;
 }
 .put{
     width: 500px;
+    height: 30px;
     text-align: center;
-    margin-bottom: 20px ;
+    margin: 20px ;
 }
 .work{
     display: flex;
@@ -131,12 +133,14 @@
     
 }
 .update h1{
-    padding: 20px;
-    margin: 20px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
 }
 .update p{
     padding: 20px;
     margin: 20px; 
+    text-align: center;
 }
 .update input{
     padding: 20px;
@@ -159,9 +163,6 @@ footer h1{
     color: #993535;
 }
 footer p {
-    color: aliceblue;
+    color: #9fa1a3;
     margin-top: 55px;
-}
-.humble{
-    
 }
